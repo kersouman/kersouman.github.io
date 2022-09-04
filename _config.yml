@@ -5,25 +5,25 @@ baseurl: ""
 # Turn subpages on or off
 publications: True
 presentations: True
-blog: True
+blog: False
 
 # Language of the website
 lang: en
 
 # Search engine optimization settings
-title: Grape Academic Theme
-tagline: A jekyll theme for academic portfolios
-description: The demonstration page for the Grape Academic Theme, a jekyll theme for academic portfolios based on the Grape Theme.
-author: Christoph Jabs (chrjabs)
-twitter:
-  username: chrjabs
-  card: A jekyll theme for academic portfolios
+title: Thomas Chevet
+tagline: Research page of Thomas Chevet
+description: The research and teaching of Thomas Chevet.
+author: Thomas Chevet
+#twitter:
+#  username: chrjabs
+#  card: A jekyll theme for academic portfolios
 logo: /assets/img/smile.png
-social:
-  name: Christoph Jabs
-  links:
-    - https://twitter.com/chrjabs
-    - https://github.com/chrjabs
+#social:
+#  name: Christoph Jabs
+#  links:
+#    - https://twitter.com/chrjabs
+#    - https://github.com/chrjabs
 locale: en_GB
 
 # Page Settings
