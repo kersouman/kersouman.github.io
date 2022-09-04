@@ -4,15 +4,14 @@
     {% for exp in site.data.profile.experience %}
     <li class="meta">
       <p class="date">{{ exp.start }} &ndash; {{ exp.end }}</p>
-      <p class="description">{{ exp.job }}</p>
-      <p class="description">
+      <p class="description">{{ exp.job }}
+      <br/>
       {%- if exp.laburl %}
       	<a href={{ exp.laburl }}>{{ exp.lab }}</a>
       {%- else %}
       	{{ exp.lab }}
       {%- endif %}
-      </p>
-      <p class="description">
+      <br/>
       {%- if exp.universityurl %}
 	<a href={{ exp.universityurl }}>{{ exp.university }}</a>
       {%- else %}

@@ -8,7 +8,7 @@ experience: # Remove for hiding the experience section
     job: Teaching assistant
     lab: Control Department
     university: CentraleSupélec
-    univeristyurl: https://www.centralesupelec.fr/en
+    universityurl: https://www.centralesupelec.fr/en
   - start: 2022-07-01
     end: ongoing
     job: Postdoctoral researcher
