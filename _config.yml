@@ -57,6 +57,7 @@ scholar:
   locale: en
   last_name: Me
   first_name: [Myself, M.]
+  group_by: type,year
   sort_by: year,month
   order: descending,ascending
 
