@@ -5,16 +5,24 @@ webpage: https://kersouman.github.io
 experience: # Remove for hiding the experience section
   - start: 2022-07-01
     end: ongoing
-    experience : Postdoctoral researcher, Laboratoire Méthodes Formelles &ndash; Université Paris-Saclay
+    job: Postdoctoral researcher
+    lab: Laboratoire Méthodes Formelles
+    university: Université Paris-Saclay, CNRS, ENS Paris-Saclay
   - start: 2021-05-01
     end: 2022-04-30
-    experience : Research engineer, ONERA - The French Aerospace Lab
+    job: Research engineer
+    lab: Département Traitement de l'information et systèmes
+    university: ONERA - The French Aerospace Lab
   - start: 2020-10-12
     end: 2021-04-30
-    experience : Postdoctoral researcher, Cedric-Lab &ndash; Conservatoire National des Arts et Métiers
+    job: Postdoctoral researcher
+    lab: Cedric-Lab
+    university: Conservatoire National des Arts et Métiers
   - start: 2017-10-01
     end: 2020-09-30
-    experience : PhD candidate, Laboratoire des signaux et systèmes &ndash; Université Paris-Saclay
+    job: PhD candidate
+    lab: Laboratoire des signaux et systèmes
+    university: Université Paris-Saclay, CNRS, CentraleSupélec
 interests: # Remove for hiding the interests section
   - Control theory
   - Dynamical systems
