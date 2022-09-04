@@ -3,12 +3,6 @@ username: Thomas Chevet
 description: Postdoctoral researcher at Laboratoire Méthodes Formelles &ndash; Université Paris-Saclay.
 webpage: https://kersouman.github.io
 experience: # Remove for hiding the experience section
-  - start: 2017-10-01
-    end: ongoing
-    job: Teaching assistant
-    lab: Control Department
-    university: CentraleSupélec
-    universityurl: https://www.centralesupelec.fr/en
   - start: 2022-07-01
     end: ongoing
     job: Postdoctoral researcher
@@ -16,6 +10,12 @@ experience: # Remove for hiding the experience section
     laburl: https://lmf.cnrs.fr/?lang=en
     university: Université Paris-Saclay
     universityurl: https://www.universite-paris-saclay.fr/en
+  - start: 2017-10-01
+    end: ongoing
+    job: Teaching assistant
+    lab: Control Department
+    university: CentraleSupélec
+    universityurl: https://www.centralesupelec.fr/en
   - start: 2021-05-01
     end: 2022-04-30
     job: Research engineer
