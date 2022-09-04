@@ -7,22 +7,29 @@ experience: # Remove for hiding the experience section
     end: ongoing
     job: Postdoctoral researcher
     lab: Laboratoire Méthodes Formelles
-    university: Université Paris-Saclay, CNRS, ENS Paris-Saclay
+    laburl: https://lmf.cnrs.fr/?lang=en
+    university: Université Paris-Saclay
+    universityurl: https://www.universite-paris-saclay.fr/en
   - start: 2021-05-01
     end: 2022-04-30
     job: Research engineer
     lab: Département Traitement de l'information et systèmes
+    laburl: https://www.onera.fr/en/dtis
     university: ONERA - The French Aerospace Lab
+    universityurl: https://www.onera.fr/en
   - start: 2020-10-12
     end: 2021-04-30
     job: Postdoctoral researcher
     lab: Cedric-Lab
+    laburl: http://cedric.cnam.fr/lab/welcome/
     university: Conservatoire National des Arts et Métiers
+    universityurl: https://www.cnam.eu/site-en/
   - start: 2017-10-01
     end: 2020-09-30
     job: PhD candidate
     lab: Laboratoire des signaux et systèmes
-    university: Université Paris-Saclay, CNRS, CentraleSupélec
+    university: Université Paris-Saclay
+    universityurl: https://www.universite-paris-saclay.fr/en
 interests: # Remove for hiding the interests section
   - Control theory
   - Dynamical systems

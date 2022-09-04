@@ -5,8 +5,16 @@
     <li class="meta">
       <p class="date">{{ exp.start }} &ndash; {{ exp.end }}</p>
       <p class="description">{{ exp.job }}</p>
-      <p class="description">{{ exp.lab }}</p>
-      <p class="description">{{ exp.university }}</p>
+      {%- if exp.laburl %}
+      	<p href={{ exp.laburl }} class="description">{{ exp.lab }}</p>
+      {%- else %}
+      	<p class="description">{{ exp.lab }}</p>
+      {%- endif %}
+      {%- if exp.universityurl %}
+	<p href={{ exp.universityurl }} class="description">{{ exp.university }}</p>
+      {%- else %}
+        <p class="description">{{ exp.university }}</p>
+      {%- endif %}
     </li>
     {% endfor %}
   </ul>
