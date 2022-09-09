@@ -1,11 +1,13 @@
 - presentation:
-    title: A nice presentation
-    event: Fancy conference
-    date: 05/2022
-    comment: This is some comment text that can do _Markdown_
-    slides: https://www.google.com # potential link to slides
-    hub: example-hub # potential hub page to link to
+    title: Calculating with bacteria
+    event: Portes ouvertes DER Informatique
+    date: 09-08-2022
+    comment: Talk given to first year students of the Computer Science curriculum of École Normale Supérieure Paris-Saclay
+    #slides: https://www.google.com # potential link to slides
+    #hub: example-hub # potential hub page to link to
 - presentation:
-    title: A second presentation
-    event: Another conference
-    date: 03/2022
+    title: Interval Observers for Fault Detection and Estimation
+    event: International Online Seminar on Interval Methods in Control Engineering
+    date: 10-08-2021
+    video: https://www.youtube.com/watch?v=KxKkMhYOZyo
+    hub: https://www.interval-methods.de/seminars

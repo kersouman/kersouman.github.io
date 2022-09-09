@@ -21,6 +21,9 @@ layout: page
           {%- if presentation.hub %}
             [<a href="{{ presentation.hub | relative_url }}" class="btn btn-sm z-depth-0" role="button">All Information</a>]
           {%- endif %}
+          {%- if presentation.video %}
+            [<iframe width="420" height="315" src="{{ presentation.video }}"></iframe>]
+          {%- endif %}
         </div>
       </li>
     {% endfor %}
